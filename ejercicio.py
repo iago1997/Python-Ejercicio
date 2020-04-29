@@ -13,6 +13,6 @@ for i in lista:
     if(i%2==0):
         listaPar.append(i)
     
-print("Ha introducido ", len(listaPar)," números pares")
-print("Los números introducidos son: ")
-print(listaPar)
+print("Ha introducido", len(listaPar),"números pares")
+print("Los números introducidos son:",listaPar)
+
