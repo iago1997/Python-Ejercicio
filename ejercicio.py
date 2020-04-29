@@ -2,7 +2,7 @@
 lista=[]
 listaPar=[]
 while True:
-    print("Introduce numero / para salir introduce un asterisco")
+    print("Introduce número / para salir introduce * ")
     a=input()
     if(a=='*'):
         break
